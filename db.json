@@ -1,54 +1,84 @@
 {
-    "persons": [
-        {
-            "name": "John Doe",
-            "age": 25,
-            "sex": "Male"
-        },
-        {
-            "name": "Jane Smith",
-            "age": 30,
-            "sex": "Female"
-        },
-        {
-            "name": "Michael Johnson",
-            "age": 35,
-            "sex": "Male"
-        },
-        {
-            "name": "Emily Davis",
-            "age": 28,
-            "sex": "Female"
-        },
-        {
-            "name": "David Brown",
-            "age": 32,
-            "sex": "Male"
-        },
-        {
-            "name": "Olivia Wilson",
-            "age": 27,
-            "sex": "Female"
-        },
-        {
-            "name": "Daniel Taylor",
-            "age": 31,
-            "sex": "Male"
-        },
-        {
-            "name": "Sophia Anderson",
-            "age": 29,
-            "sex": "Female"
-        },
-        {
-            "name": "Matthew Martinez",
-            "age": 33,
-            "sex": "Male"
-        },
-        {
-            "name": "Ava Thomas",
-            "age": 26,
-            "sex": "Female"
-        }
-    ]
+  "persons": [
+    {
+      "name": "John Doe",
+      "age": 25,
+      "sex": "Male",
+      "hair_color": "Brown",
+      "eye_color": "Blue",
+      "height_cm": 180  
+    },
+    {
+      "name": "Jane Smith",
+      "age": 30,
+      "sex": "Female",
+      "hair_color": "Blonde",
+      "eye_color": "Green",
+      "height_cm": 170
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 35,
+      "sex": "Male",
+      "hair_color": "Black",
+      "eye_color": "Brown",
+      "height_cm": 185
+    },
+    {
+      "name": "Emily Davis",
+      "age": 28,
+      "sex": "Female",
+      "hair_color": "Red",
+      "eye_color": "Hazel",
+      "height_cm": 165
+    },
+    {
+      "name": "David Brown",
+      "age": 32,
+      "sex": "Male",
+      "hair_color": "Brown",
+      "eye_color": "Blue",
+      "height_cm": 175
+    },
+    {
+      "name": "Olivia Wilson",
+      "age": 27,
+      "sex": "Female",
+      "hair_color": "Brunette",
+      "eye_color": "Green",
+      "height_cm": 168
+    },
+    {
+      "name": "Daniel Taylor",
+      "age": 31,
+      "sex": "Male",
+      "hair_color": "Black",
+      "eye_color": "Brown",
+      "height_cm": 182
+    },
+    {
+      "name": "Sophia Anderson",
+      "age": 29,
+      "sex": "Female",
+      "hair_color": "Blonde",
+      "eye_color": "Blue",
+      "height_cm": 172
+    },
+    {
+      "name": "Matthew Martinez",
+      "age": 33,
+      "sex": "Male",
+      "hair_color": "Brown",
+      "eye_color": "Green",
+      "height_cm": 178
+    },
+    {
+      "name": "Ava Thomas",
+      "age": 26,
+      "sex": "Female",
+      "hair_color": "Black",
+      "eye_color": "Hazel",
+      "height_cm": 163
+    }
+  ]
 }
